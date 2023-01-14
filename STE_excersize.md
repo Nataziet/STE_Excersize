@@ -59,3 +59,5 @@ Do not exclude duplicates – if you need same string n times in your resources,
 Check that Excel has not scattered your strings into multiple rows or converted currency to date, etc.
 
 *Changes changes changes for excercise* 
+
+Added some additional text
